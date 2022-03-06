@@ -7,7 +7,7 @@ local MANIFEST = {
     author = "Rooki",
     name = "Background Changer",
     description = "You can change the background to a url!",
-    version = "0.1",
+    version = "0.2",
     config = CONFIG,
 }
 
