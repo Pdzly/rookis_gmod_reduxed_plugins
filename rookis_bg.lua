@@ -11,7 +11,7 @@ local MANIFEST = {
     version = "0.1",
     config = CONFIG,
     source = "https://raw.githubusercontent.com/Pdzly/gmod_reduxed_background_plugin/main/rookis_bg.lua",
-    changelog = "Bugfixes! *But still not optimal*.",
+    changelog = "Initial Release *It can have bugs!*.",
 }
 
 menup(MANIFEST)
